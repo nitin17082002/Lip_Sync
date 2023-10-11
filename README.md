@@ -14,3 +14,8 @@ COLLAB FILE : https://colab.research.google.com/drive/1RjMfK5jFXvVS2IQ9tcTgqMF_k
 
 # Sample Input and Output :
 https://drive.google.com/drive/folders/1_g-8OGci23KT5zG3FvzVuAfKH4WHoywx?usp=drive_link
+
+output: 
+
+https://github.com/nitin17082002/Lip_Sync/assets/92628841/d448f133-dc50-41a8-9d16-f2334fdd6bb9
+
